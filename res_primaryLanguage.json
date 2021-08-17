@@ -28,6 +28,10 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           }
         ]
       },
@@ -48,6 +52,39 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+          ,
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Poster",
+        "startDate": "2020",
+        "description": "An amazing social media where you can share states, photos, thoughs and chat in real time with your contacts. It's a big application that teaches you important concepts of react, web sockets and databases to perform a workfull insfrastructure.",
+        "images": [
+          "images/portfolio/poster/bg1.jpg",
+          "images/portfolio/poster/bg2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
           }
         ]
       },
@@ -68,43 +105,30 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-googlecloud-plain",
+            "name": "Google Cloud"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Endur-Chem",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "12.2020 - 06.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "React Js"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Ract Js",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Sass"
         ]
       }
     ]
