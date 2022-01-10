@@ -61,6 +61,16 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        },
+        {
+          "name": "Spring",
+          "class": "devicon-spring-plain",
+          "level": "85"
         }
         
       ]

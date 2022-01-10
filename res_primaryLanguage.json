@@ -115,10 +115,58 @@
             "name": "Google Cloud"
           }
         ]
+      },
+      {
+        "title": "Media Ind",
+        "startDate": "2022",
+        "description": "An amazing social media that allows you to chat in real time and know people all over the world!",
+        "images": [
+          "images/portfolio/media/1.jpg",
+          "images/portfolio/media/2.jpg",
+          "images/portfolio/media/3.jpg",
+          "images/portfolio/media/4.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+          ,
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nextjs-original",
+            "name": "NextJs"
+          }
+        ]
       }
     ],
     "experience": [
       {
+        "company": "Ensolvers",
+        "title": "Software Engineer",
+        "years": "09.2021 - Now",
+        "mainTech": [
+          "React Js"
+        ],
+        "technologies": [
+          "React Js",
+          "Spring",
+          "SQL"
+        ]
+      }
+      ,{
         "company": "Endur-Chem",
         "title": "Front-End Developer",
         "years": "12.2020 - 06.2021",
@@ -126,7 +174,7 @@
           "React Js"
         ],
         "technologies": [
-          "Ract Js",
+          "React Js",
           "JavaScript",
           "Sass"
         ]
