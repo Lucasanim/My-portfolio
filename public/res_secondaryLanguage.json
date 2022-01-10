@@ -120,10 +120,10 @@
         "startDate": "2022",
         "description": "Una aplicación increible para chatear en tiempo real y conocer personar al rededor del mundo!",
         "images": [
-          "images/portfolio/media/1.jpg",
-          "images/portfolio/media/2.jpg",
-          "images/portfolio/media/3.jpg",
-          "images/portfolio/media/4.jpg"
+          "images/portfolio/media/1.png",
+          "images/portfolio/media/2.png",
+          "images/portfolio/media/3.png",
+          "images/portfolio/media/4.png"
         ],
         "url": "https://github.com",
         "technologies": [

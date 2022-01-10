@@ -121,10 +121,10 @@
         "startDate": "2022",
         "description": "An amazing social media that allows you to chat in real time and know people all over the world!",
         "images": [
-          "images/portfolio/media/1.jpg",
-          "images/portfolio/media/2.jpg",
-          "images/portfolio/media/3.jpg",
-          "images/portfolio/media/4.jpg"
+          "images/portfolio/media/1.png",
+          "images/portfolio/media/2.png",
+          "images/portfolio/media/3.png",
+          "images/portfolio/media/4.png"
         ],
         "url": "https://github.com",
         "technologies": [
